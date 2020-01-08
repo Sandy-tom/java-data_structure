@@ -48,3 +48,20 @@ public class substring {
 }		
 
 }
+// output
+/*
+enter the testcase  
+1
+enter arry leth
+5
+enter the number arry
+1
+2
+3
+7
+5
+enter number to find 
+12
+2 4
+
+*/
